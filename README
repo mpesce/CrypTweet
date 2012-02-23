@@ -1,0 +1,11 @@
+Here are the source files for CrypTweet.
+
+Not included here are the modules:
+
+* Bottle - bottlepy.org
+* Twitter
+* pyDes
+* RSA
+* pyasn1
+
+Which you can find through the normal repositories.
